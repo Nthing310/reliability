@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ReliabilityPro - Software Reliability Analysis Platform",
+  "description": "A comprehensive suite for software reliability engineering featuring classic growth models (JM, GO, MO, S-shaped) and modern data-driven approaches (ARIMA, GM, BP, SVR).",
+  "requestFramePermissions": []
+}
